@@ -7,6 +7,6 @@ School of Artificial Intelligence and Automation, HUST                          
 
 •	Developed serial interface by using a RS232 cable to connect two computers without internet so when one user clicks the “Send” button, both typed Chinese and English will transmit to the other computer and print out like Facebook.
 
-Award:
+## Award:
 2019    Special Award in C Programming Course Project    
 (Top1, The highest honor for C Programming Contest, School of A.I.A.)  
